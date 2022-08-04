@@ -1,0 +1,31 @@
+{
+	"storyName": "FUN IS INFINITE",
+	"difficulties": "fun",
+	"hideFreeplay": false,
+	"weekBackground": "thebgshit",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"you-cant-fun",
+			"majin",
+			[
+				0,
+				19,
+				102
+			]
+		]
+	],
+	"weekCharacters": [
+		"ExcitedMajin",
+		"boyfriendzero",
+		"GFblue"
+	],
+	"weekName": "YCF"
+}
