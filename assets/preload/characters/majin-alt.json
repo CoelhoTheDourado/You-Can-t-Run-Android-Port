@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				-260
+			],
+			"anim": "danceLeft",
+			"fps": 12,
+			"name": "DanceA",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				-260
+			],
+			"anim": "danceRight",
+			"fps": 12,
+			"name": "DanceB",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				-261
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "Backward",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-219,
+				-260
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "Forward",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-150,
+				-260
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-200,
+				-260
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Pixel_majin",
+	"position": [
+		0,
+		-400
+	],
+	"healthicon": "Pixel-majin",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		128
+	],
+	"camera_position": [
+		-30,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 10
+}
